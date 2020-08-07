@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=keyboardWithDream&show_icons=true&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyboardWithDream&layout=compact&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyboardWithDream&layout=compact&repo=convoychat" />
 </a>
 
 
