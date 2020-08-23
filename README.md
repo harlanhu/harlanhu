@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2020 - 21 August, 2020
+Week: 15 August, 2020 - 22 August, 2020
 
-Other        21 hrs 55 mins  ███████████████░░░░░░░░░░   59.90 % 
-Java         9 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.07 % 
-XML          5 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Markdown     12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Properties   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other        21 hrs          ███████████████░░░░░░░░░░   60.64 % 
+Java         9 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+XML          3 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Markdown     12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Properties   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
