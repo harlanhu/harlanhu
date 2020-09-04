@@ -15,9 +15,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2020 - 02 September, 2020
-
-XML    10 mins         ███████████████████▒░░░░░   76.98 % 
-Java   3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.02 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
