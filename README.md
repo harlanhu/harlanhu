@@ -15,6 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 August, 2020 - 06 September, 2020
+
+Other      1 hr 37 mins    ████████████████▓░░░░░░░░   66.66 % 
+Java       34 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Markdown   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 <!--END_SECTION:waka-->
