@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2020 - 26 September, 2020
+Week: 20 September, 2020 - 27 September, 2020
 
-Other        36 hrs 18 mins  ██████████████░░░░░░░░░░░   55.64 % 
-Java         18 hrs 26 mins  ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-XML          7 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-SQL          2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Properties   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other        34 hrs 17 mins  █████████████░░░░░░░░░░░░   52.58 % 
+Java         21 hrs 33 mins  ████████▒░░░░░░░░░░░░░░░░   33.07 % 
+XML          6 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+SQL          1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Properties   23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 <!--END_SECTION:waka-->
