@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2020 - 05 October, 2020
+Week: 29 September, 2020 - 06 October, 2020
 
-Other        25 hrs 26 mins  ██████████████▓░░░░░░░░░░   58.70 % 
-Java         9 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.60 % 
-XML          4 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Properties   1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-YAML         57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Other        19 hrs 38 mins  ████████████░░░░░░░░░░░░░   47.78 % 
+Java         10 hrs 12 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.83 % 
+XML          4 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+HTML         3 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Properties   1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 <!--END_SECTION:waka-->
