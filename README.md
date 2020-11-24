@@ -15,11 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2020 - 22 November, 2020
+Week: 16 November, 2020 - 23 November, 2020
 
-Java         9 hrs 24 mins   ███████████████████████▓░   95.18 % 
-XML          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Java         4 hrs 39 mins   ████████████████████████▓   98.47 % 
+XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
