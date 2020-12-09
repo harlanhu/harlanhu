@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2020 - 07 December, 2020
+Week: 01 December, 2020 - 08 December, 2020
 
-Java         14 hrs 21 mins  ████████████▒░░░░░░░░░░░░   48.88 % 
-Vue.js       6 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.84 % 
-JavaScript   3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-XML          1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-HTML         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Java         15 hrs 21 mins  █████████████░░░░░░░░░░░░   52.13 % 
+Vue.js       5 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+JavaScript   3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+XML          1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+HTML         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 <!--END_SECTION:waka-->
