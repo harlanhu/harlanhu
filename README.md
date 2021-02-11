@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 Other    30 hrs 40 mins  ████████████████▓░░░░░░░░   67.29 % 
 Java     8 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.18 % 
