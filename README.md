@@ -15,11 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2021 - 21 February, 2021
+Week: 15 February, 2021 - 22 February, 2021
 
-Other        5 hrs 23 mins   ██████████████████████▓░░   90.49 % 
-Vue.js       28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other        5 hrs 46 mins   ██████████████████▓░░░░░░   74.15 % 
+Java         1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Vue.js       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+XML          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
