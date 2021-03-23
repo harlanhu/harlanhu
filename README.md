@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 March, 2021 - 21 March, 2021
+Week: 15 March, 2021 - 22 March, 2021
 
 Vue.js       9 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   38.21 % 
 SQL          7 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.20 % 
