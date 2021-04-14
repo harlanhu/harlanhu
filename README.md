@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 April, 2021 - 12 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
-Other        27 hrs 50 mins  █████████████▒░░░░░░░░░░░   53.94 % 
-Vue.js       12 hrs 4 mins   ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Java         7 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-JavaScript   1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Docker       58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Other        25 hrs 54 mins  ████████████▒░░░░░░░░░░░░   48.95 % 
+Vue.js       12 hrs 37 mins  ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Java         8 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+JavaScript   2 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+YAML         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 <!--END_SECTION:waka-->
