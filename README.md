@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 April, 2021 - 13 April, 2021
+Week: 07 April, 2021 - 14 April, 2021
 
-Other        25 hrs 54 mins  ████████████▒░░░░░░░░░░░░   48.95 % 
-Vue.js       12 hrs 37 mins  ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Java         8 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-JavaScript   2 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-YAML         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Other        26 hrs 44 mins  ████████████▒░░░░░░░░░░░░   48.85 % 
+Vue.js       10 hrs 56 mins  █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Java         10 hrs 55 mins  █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+JavaScript   2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+YAML         1 hr 41 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 <!--END_SECTION:waka-->
