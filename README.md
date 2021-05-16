@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 May, 2021 - 14 May, 2021
+Week: 08 May, 2021 - 15 May, 2021
 
 Other        13 hrs 33 mins  ████████████████▓░░░░░░░░   66.25 % 
 Java         4 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
