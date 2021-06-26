@@ -15,11 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 June, 2021 - 24 June, 2021
+Week: 19 June, 2021 - 25 June, 2021
 
-Other        17 hrs 58 mins  ██████████████████████░░░   87.64 % 
-Java         2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Python       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other   17 hrs 13 mins  █████████████████████▓░░░   87.09 % 
+Java    2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 ```
 <!--END_SECTION:waka-->
