@@ -15,9 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 June, 2021 - 29 June, 2021
+Week: 24 June, 2021 - 30 June, 2021
 
-Other   27 hrs 3 mins   ███████████████████████▓░   95.07 % 
-Java    1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Other   32 hrs 15 mins  ████████████████████████░   96.46 % 
+Java    1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 <!--END_SECTION:waka-->
