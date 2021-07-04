@@ -15,9 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 June, 2021 - 02 July, 2021
+Week: 27 June, 2021 - 03 July, 2021
 
-Other   36 hrs 18 mins  ████████████████████████▓   99.10 % 
-Java    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Other   32 hrs 49 mins  ████████████████████████▓   99.02 % 
+Java    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
