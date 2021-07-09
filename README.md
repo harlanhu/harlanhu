@@ -15,9 +15,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 July, 2021 - 07 July, 2021
+Week: 02 July, 2021 - 08 July, 2021
 
-Other   11 hrs 47 mins  ████████████████████████▓   98.70 % 
-Java    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other   4 hrs 10 mins   ████████████████████████░   96.40 % 
+Java    9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 <!--END_SECTION:waka-->
