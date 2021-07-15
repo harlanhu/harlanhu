@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 July, 2021 - 13 July, 2021
+Week: 08 July, 2021 - 14 July, 2021
 
 Java         1 hr 50 mins    █████████████████████░░░░   84.30 % 
 Docker       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
