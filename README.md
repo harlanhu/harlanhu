@@ -15,7 +15,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2021 - 21 July, 2021
+Week: 16 July, 2021 - 22 July, 2021
 
 Other        5 hrs 22 mins   ████████████████████░░░░░   79.61 % 
 Java         53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
