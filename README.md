@@ -15,9 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 July, 2021 - 01 August, 2021
+Week: 27 July, 2021 - 02 August, 2021
 
-Java    4 hrs 32 mins   █████████████████░░░░░░░░   67.76 % 
-Other   2 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.24 % 
+Java    4 hrs 46 mins   █████████████▒░░░░░░░░░░░   53.45 % 
+Other   4 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   45.79 % 
+SQL     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
