@@ -15,11 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
-Java         2 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.14 % 
-Other        2 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   43.05 % 
-SQL          28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Java         2 hrs 41 mins   █████████████░░░░░░░░░░░░   51.34 % 
+Other        2 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   39.26 % 
+SQL          28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
