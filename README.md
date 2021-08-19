@@ -15,11 +15,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
-Other        22 hrs 39 mins  █████████████████████▒░░░   84.95 % 
-Java         3 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-XML          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other      25 hrs 42 mins  █████████████████████▓░░░   86.02 % 
+Java       3 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+XML        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 <!--END_SECTION:waka-->
