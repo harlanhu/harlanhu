@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
-Java         38 hrs 13 mins  ███████████████████▒░░░░░   77.52 % 
-YAML         5 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-XML          4 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Other        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Properties   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Java         33 hrs 39 mins  ████████████████████░░░░░   79.68 % 
+XML          4 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+YAML         3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Properties   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Git Config   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
