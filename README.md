@@ -15,12 +15,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-Java       31 hrs 42 mins  █████████████████▓░░░░░░░   70.18 % 
-YAML       6 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-XML        5 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Other      31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Markdown   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Java       37 hrs 19 mins  ██████████████████▓░░░░░░   74.37 % 
+YAML       7 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+XML        4 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other      32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Markdown   18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
