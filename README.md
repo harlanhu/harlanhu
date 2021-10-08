@@ -15,12 +15,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
-Java    12 hrs 7 mins   ████████████████████████▒   97.49 % 
-YAML    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-XML     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-JSON    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Java    9 hrs 5 mins    █████████████████████████   99.48 % 
+XML     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
