@@ -15,13 +15,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
-Java         17 hrs 50 mins  ██████████████████████▓░░   91.08 % 
-XML          1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-SQL          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Java         22 hrs 22 mins  ███████████████████░░░░░░   76.27 % 
+XML          3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+YAML         2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Velocity     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Properties   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
