@@ -13,5 +13,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: 6b97dd56-166c-4615-86e0-2c061e7bf4a7
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: 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
           SHOW_TITLE: true
