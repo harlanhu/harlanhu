@@ -31,4 +31,5 @@ Velocity     39 mins         ▒░░░░░░░░░░░░░░░░
 Properties   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
+<img src="https://visitor-badge.glitch.me/badge?page_id=zero-copy" alt="访客统计" /></div>
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
