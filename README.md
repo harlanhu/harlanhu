@@ -21,15 +21,14 @@
 
 
 <!--START_SECTION:waka-->
-```text
-Week: 05 October, 2021 - 11 October, 2021
 
-Java         30 hrs 27 mins  ███████████████████▓░░░░░   78.31 % 
-XML          3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-YAML         3 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Velocity     39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Properties   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+```text
+From: 30 June 2022 - To: 07 July 2022
+
+Java               35 hrs 48 mins  ███████████████████░░░░░░   76.34 %
+Other              5 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
 ```
+
 <!--END_SECTION:waka-->
 <img src="https://visitor-badge.glitch.me/badge?page_id=zero-copy" alt="访客统计" /></div>
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
