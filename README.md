@@ -22,12 +22,6 @@
 
 <!--START_SECTION:waka-->
 
-```text
-From: 27 July 2022 - To: 03 August 2022
-
-Other              45 hrs 38 mins  █████████████████░░░░░░░░   67.92 %
-```
-
 <!--END_SECTION:waka-->
 <img src="https://visitor-badge.glitch.me/badge?page_id=harlanhu" alt="访客统计" /></div>
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
