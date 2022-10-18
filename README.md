@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 16 October 2022
+From: 10 October 2022 - To: 17 October 2022
 
-Java         23 hrs 52 mins  ███████████████████████▒░   93.74 %
-Properties   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-YAML         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Java         24 hrs 4 mins   ███████████████████████▓░   94.63 %
+Properties   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+YAML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
