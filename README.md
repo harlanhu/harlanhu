@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@harlanhu/4dc39ab1-156c-447a-ac6b-0d41db4475e6.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@harlanhu/2f4a286e-bcc4-466c-b593-3d6c18c3892e.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@harlanhu/de47fc38-18eb-420a-894d-a9ebf6a5340c.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
