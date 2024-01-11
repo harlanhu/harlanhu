@@ -48,8 +48,8 @@
 
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@ebda3f7e-01d8-40ad-aa5e-a9ee38e91e29/0dd3e6b6-f487-49c8-ac36-0fdc6b85d0e1.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@ebda3f7e-01d8-40ad-aa5e-a9ee38e91e29/b333e642-3991-4ff4-8d81-79bd750446de.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@harlanhu/4dc39ab1-156c-447a-ac6b-0d41db4475e6.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@harlanhu/2f4a286e-bcc4-466c-b593-3d6c18c3892e.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
