@@ -6,7 +6,7 @@
 
 
 
-# 🙋 Hello! !<img src="https://wakatime.com/badge/user/ebda3f7e-01d8-40ad-aa5e-a9ee38e91e29.svg" alt="Total time coded since Nov 29 2019"/><img src="https://komarev.com/ghpvc/?username=harlanhu&label=Views&color=0e75b6&style=flat">https://wakatime.com/@ebda3f7e-01d8-40ad-aa5e-a9ee38e91e29">
+# 🙋 Hello! <img src="https://wakatime.com/badge/user/ebda3f7e-01d8-40ad-aa5e-a9ee38e91e29.svg" alt="Total time coded since Nov 29 2019"/><img src="https://komarev.com/ghpvc/?username=harlanhu&label=Views&color=0e75b6&style=flat">https://wakatime.com/@ebda3f7e-01d8-40ad-aa5e-a9ee38e91e29">
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
