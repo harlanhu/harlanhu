@@ -181,26 +181,26 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-   
-      # 🗨️ Stack Overflow
-      - name: Top answers from stackoverflow
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stackoverflow.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
 
-      # ⏰ WakaTime
-      - name: WakaTime
+      # Favorites characters
+      - name: Favorites characters
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/wakatime.svg
+          filename: metrics.plugin.anilist.characters.svg
           token: NOT_NEEDED
           base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
+
+      # 📌 Starred topics
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics_sort: stars
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
