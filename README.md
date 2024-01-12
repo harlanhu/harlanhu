@@ -192,7 +192,7 @@ Python                   1 repo              ███░░░░░░░░�
     <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/topics.icons.svg" alt="topics" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
@@ -201,7 +201,7 @@ Python                   1 repo              ███░░░░░░░░�
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/anilist.characters.svg" alt="anilist" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/stars.svg" alt="stars" /></td>
