@@ -1,12 +1,8 @@
-<div align=center>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=73E7F7&random=false&width=435&separator=%3C&lines=I'm+Harlan%3CSystem.out.print(%22Hello+World!%22);" alt="Typing SVG" />
-    </a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=830&height=100&separator=%3C&lines=System.out.println(%22I'm+Harlan.%22);%3C+console.log(%22Hello+World!%22);" alt="Typing SVG" /></a>
 
 
 
-# 🙋 Hello! <img src="https://wakatime.com/badge/user/ebda3f7e-01d8-40ad-aa5e-a9ee38e91e29.svg" alt="Total time coded since Nov 29 2019"/> <img src="https://komarev.com/ghpvc/?username=harlanhu&label=Views&color=0e75b6&style=flat">
+# 🙋 Hello!
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -19,14 +15,65 @@
 <div align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=harlanhu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true">
 </div>
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/static/images/left.png" />
 
-<div align=center>
-    <img align=center  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=harlanhu&theme=default&hide_border=true" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=harlanhu&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=harlanhu&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harlanhu&theme=default&hide_border=true" />
+</picture>
+
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/static/images/right.png" />
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/static/images/hr.gif"/>
+
+## 🙌已达成
+
+<picture>
+    <p align=center>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,bash,git,java,py,docker,spring,mysql,redis,nginx,rabbitmq,kafka,elasticsearch,maven,selenium,jenkins,html,js,css,vue,md&theme=dark" />
+    </p>
+    <p align=center>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,bash,git,java,py,docker,spring,mysql,redis,nginx,rabbitmq,kafka,elasticsearch,maven,selenium,jenkins,html,js,css,vue,md&theme=light" />
+    </p>
+    <p align=center>
+        <img src="https://skillicons.dev/icons?i=linux,bash,git,java,py,docker,spring,mysql,redis,nginx,rabbitmq,kafka,elasticsearch,maven,selenium,jenkins,html,js,css,vue,md&theme=light" />
+    </p>
+</picture>
 
 
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+## 📅计划中
+
+<picture>
+    <p align=center>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django,opencv,pytorch,tensorflow,terraform&theme=dark" />
+    </p>
+    <p align=center>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django,opencv,pytorch,tensorflow,terraform&theme=light" />
+    </p>
+    <p align=center>
+        <img src="https://skillicons.dev/icons?i=django,opencv,pytorch,tensorflow,terraform&theme=light" />
+    </p>
+</picture>
+
+
+
+## 👨‍💻工具
+
+<picture>
+    <p align=center>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=idea,vscode,vim,postman,github,githubactions,gitlab,ps,raspberrypi,stackoverflow&theme=dark" />
+    </p>
+    <p align=center>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=idea,vscode,vim,postman,github,githubactions,gitlab,ps,raspberrypi,stackoverflow&theme=light" />
+    </p>
+    <p align=center>
+        <img src="https://skillicons.dev/icons?i=idea,vscode,vim,postman,github,githubactions,gitlab,ps,raspberrypi,stackoverflow&theme=light" />
+    </p>
+</picture>
+
+
 
 ## 📊 WakaTime
 
@@ -114,15 +161,14 @@ Python                   1 repo              ███░░░░░░░░�
 </table>
 
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/static/images/hr.gif" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/static/images/hr.gif" />
 
 <table>
   <tr>
@@ -150,5 +196,4 @@ Python                   1 repo              ███░░░░░░░░�
     <td><img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
-
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/static/images/icon.png" />
