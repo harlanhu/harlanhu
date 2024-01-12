@@ -186,7 +186,7 @@ jobs:
       - name: Favorites characters
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.characters.svg
+          filename: github-metrics/anilist.characters.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
@@ -197,7 +197,7 @@ jobs:
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: github-metrics/topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics_sort: stars
