@@ -20,7 +20,7 @@
 
 * Programming can change the world even though the world is crazy.
 
-* <a href="mailto:isharlan.hu@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail" /></a> / <a href="https://www.instagram.com/fou46ix/"><img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram" /></a> / <a href="https://discordapp.com/users/990120036532371456"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord" /></a> / <a href="https://twitter.com/HarlanHu446"><img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter" /></a>
+* <a href="mailto:isharlan.hu@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail" /></a>  <a href="https://www.instagram.com/fou46ix/"><img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram" /></a>  <a href="https://discordapp.com/users/990120036532371456"><img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord" /></a>  <a href="https://twitter.com/HarlanHu446"><img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter" /></a>
 
   
 
@@ -91,6 +91,10 @@
         <img src="https://skillicons.dev/icons?i=idea,vscode,vim,postman,github,githubactions,gitlab,ps,raspberrypi,stackoverflow&theme=light" />
     </p>
 </picture>
+
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/harlanhu/harlanhu/static/images/hr.gif"/>
+
 
 
 
