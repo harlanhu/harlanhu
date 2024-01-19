@@ -12,7 +12,7 @@
 
 👨🏻‍💻 a.k.a. Harlan Hu, Haonan Hu.
 
-* https://harlanhu.cn
+* https://harlanhu.com
 
 * From Chongqing, China / Work in Shanghai
 
