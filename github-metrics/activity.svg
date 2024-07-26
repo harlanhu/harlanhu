@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="364" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="370" class="">
     <defs>
         <style/>
     </defs>
@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#29 Draft</span>
+                                        <span class="issue">#32 chore: 更新菜单配置文件，添加Github和RSS选项</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harlanhu/harlanhu-blog</span></div>
-                                    <div>6 files changed <span class="code">++169 --0</span></div>
+                                    <div>1 file changed <span class="code">++9 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#29 Draft</span>
+                                        <span class="issue">#32 chore: 更新菜单配置文件，添加Github和RSS选项</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harlanhu/harlanhu-blog</span></div>
-                                    <div>6 files changed <span class="code">++169 --0</span></div>
+                                    <div>1 file changed <span class="code">++9 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -57,12 +57,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#28 Update paginate value to 6 in config.toml</span>
+                                        <span class="issue">#31 chore: 更新菜单配置文件，添加Github和RSS选项</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harlanhu/harlanhu-blog</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>2 files changed <span class="code">++11 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,12 +74,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#28 Update paginate value to 6 in config.toml</span>
+                                        <span class="issue">#31 chore: 更新菜单配置文件，添加Github和RSS选项</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harlanhu/harlanhu-blog</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>2 files changed <span class="code">++11 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -91,12 +91,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#27 feat: 更新mailcow部署指南</span>
+                                        <span class="issue">#30 Draft</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">harlanhu/harlanhu-blog</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>3 files changed <span class="code">++8 --1</span></div>
                                 </div>
                             </section>
                         </div>
