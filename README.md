@@ -114,7 +114,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C614%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C614%20hrs%2016%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -143,13 +143,13 @@ Sunday                   1956 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 53 mins       █████████████████████████   100.00 % 
+Other                    8 hrs 18 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 53 mins       █████████████████████████   100.00 % 
+Chrome                   8 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -165,7 +165,7 @@ Vue                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/11/2025 00:16:52 UTC
+ Last Updated on 18/11/2025 00:16:38 UTC
 <!--END_SECTION:waka-->
 
 <table>
