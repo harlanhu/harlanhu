@@ -114,7 +114,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C515%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C519%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -143,20 +143,20 @@ Sunday                   1961 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 5 mins       ███████████████████░░░░░░   77.35 % 
-Vue                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Java                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Other                    20 hrs 49 mins      ███████████████████░░░░░░   77.13 % 
+Vue                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Java                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 7 mins       ████████████████████░░░░░   81.14 % 
-Trae                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-IntelliJ IDEA            2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Chrome                   21 hrs 51 mins      ████████████████████░░░░░   80.96 % 
+Trae                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+IntelliJ IDEA            2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  27 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -172,7 +172,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2026 03:12:21 UTC
+ Last Updated on 05/07/2026 03:23:08 UTC
 <!--END_SECTION:waka-->
 
 <table>
