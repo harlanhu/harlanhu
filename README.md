@@ -114,26 +114,26 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C554%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C607%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1725 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-🌆 Daytime                3369 commits        ████████░░░░░░░░░░░░░░░░░   32.15 % 
-🌃 Evening                3992 commits        ██████████░░░░░░░░░░░░░░░   38.09 % 
-🌙 Night                  1394 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+🌞 Morning                1521 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+🌆 Daytime                3085 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌃 Evening                3962 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌙 Night                  1426 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1583 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Tuesday                  1294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Wednesday                1555 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Thursday                 1640 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Friday                   1365 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 1082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Sunday                   1961 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Monday                   1532 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Tuesday                  1254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Wednesday                1424 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Thursday                 1492 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Friday                   1235 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Saturday                 1082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Sunday                   1975 commits        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 ```
 
 
@@ -143,20 +143,19 @@ Sunday                   1961 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 15 mins      ████████████░░░░░░░░░░░░░   48.00 % 
-Java                     8 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Other                    6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Vue                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Markdown                 27 hrs 22 mins      ███████████░░░░░░░░░░░░░░   45.55 % 
+Java                     18 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   31.47 % 
+Other                    5 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+TypeScript               4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Vue                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 16 mins      █████████████░░░░░░░░░░░░   50.96 % 
-VS Code                  13 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
-IntelliJ IDEA            2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Trae                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+VS Code                  37 hrs 13 mins      ███████████████░░░░░░░░░░   61.92 % 
+IntelliJ IDEA            12 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Chrome                   10 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 
 💻 Operating System: 
-Windows                  33 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  60 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -172,7 +171,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 03:02:49 UTC
+ Last Updated on 20/07/2026 03:23:26 UTC
 <!--END_SECTION:waka-->
 
 <table>
